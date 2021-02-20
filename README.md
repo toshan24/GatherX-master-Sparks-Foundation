@@ -1,11 +1,11 @@
-# GatherX-master-Sparks-Foundation
-#Social Media Integration
+## GatherX
+Social Media Connector 
+This App is made to complete Task #5 of Graduate Rotational Internship Program(GRIP) of The Sparks Foundation i.e Social Media Integration in an Android App
 
-◇ Create a mobile app, where user can login through at least
-two social media from such as Facebook and Google.
-◇ After login, display all the details (e.g. Name, profile photo,
-email, etc.) on the second page.
-◇ Take help of online tutorials and Youtube videos.
-◇ No backend / server side programming required.
-◇ Very good looking UI and responsive UI, which should work
-for mobiles as well as tablets.
+In this App, User can login by Social Media like Facebook and Twitter, Then his/her basic info like Name, Profile photo and Email are displayed on the second page.
+
+# Preview
+
+<img src="app/src/test/java/com/trendster/gatherx/Splash_page.jpg" width="300" >
+<img src="app/src/test/java/com/trendster/gatherx/Login_screen.jpg" width="300" >
+<img src="app/src/test/java/com/trendster/gatherx/Profile_screen.jpg" width="300" >
